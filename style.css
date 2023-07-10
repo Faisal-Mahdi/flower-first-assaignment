@@ -1,0 +1,44 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: Lato;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+/* common styles*/
+.primary-button{
+    background-color: #E55473;
+    border-radius: 5px;
+    border: none;
+    color: #FFF;
+    padding: 20px 43px;
+    gap: 10px;
+    margin-left: 240px;
+}
+
+/* header styles*/
+.fsection{
+    display: flex;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    width: 1800px;
+    height: 850px;
+}
+.fheading{
+    color: #272727;
+    width: 708px;
+    flex-direction: column;
+    padding-left: 240px;
+    
+
+}
+.fpara{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 240px;
+    
+}
