@@ -74,33 +74,49 @@ line-height: 30px;
 }
 .menu-imone{
     margin-top: 50px;
+
     display: flex;
   justify-content: center;
   align-items: center;
   padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 30px;
 
 }
 .img-one{
-    width: 464px;
-height: 538px;
-flex-shrink: 0;
-border-radius: 300px 300px 0px 0px;
+    width: 264px;
+height: 338px;
+border-radius: 500px 500px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 17px 76px;
 
 }
 .img-two{
-    width: 464px;
-    height: 538px;
+    width: 264px;
+    height: 338px;
     flex-shrink: 0;
-    border-radius: 300px 300px 0px 0px;
+    border-radius: 500px 500px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     margin-left: 24px;
+    padding: 110px 78px 17px 76px;
 }
 .img-three{
-    width: 464px;
-height: 538px;
+    width: 264px;
+height: 338px;
 flex-shrink: 0;
-border-radius: 300px 300px 0px 0px;
+border-radius: 500px 500px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
 margin-left: 24px;
+padding: 110px 78px 17px 76px;
 }
+
+.pink{
+    color: #272727;
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+
