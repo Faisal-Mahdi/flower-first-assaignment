@@ -240,11 +240,12 @@ margin-top: 10px;
     margin-top: 500px;
     border-radius: 5px;
     border: none;
-    color: #FFF;
+    color: rgba(39, 39, 39, 0.60);
     padding: 20px 43px;
     gap: 10px;
     margin-top: 32px;
     width: 250px;
+    background: #FFF;;
     
     
     
@@ -260,4 +261,33 @@ margin-top: 10px;
     gap: 10px;
     margin-top: 32px;
     margin-left: -300px;
+}
+
+/*footer section*/
+.fotter{
+    background: #111010;
+    margin-top: 80px;
+}
+.span{
+    color: #E55473;;
+}
+.footerheading{
+font-size: 48px;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+color: #FFF;
+padding-top: 128px;
+}
+.footerpera{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+margin-top: 24px
+;
+}
+.footerperato{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+margin-top: 24px;
+padding: 128px;
 }
