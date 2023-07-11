@@ -150,6 +150,8 @@ flex-shrink: 0;
     padding: 20px 43px;
     gap: 10px;
     margin-top: 32px;
+    display: flex;
+    justify-content: center;
     align-items: center;
   
 }
